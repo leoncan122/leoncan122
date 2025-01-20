@@ -1,4 +1,6 @@
-## Hi there 👋
+## Leon Cangini 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EF736&width=435&lines=Always+learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <!--
 **leoncan122/leoncan122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +23,5 @@ I am a Full Stack Developer from Argentina living in Barcelona.
 
 🌱 I’m always learning, currently doing the devops path
 
-📫How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/leon-cangini)
+📫How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://linkedin.com/in/leon-cangini)
 &nbsp;
