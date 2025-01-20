@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍💻 🚀 About Me :
-I am a Full Stack Developer from Peru living in Barcelona.
+I am a Full Stack Developer from Argentina living in Barcelona.
 
 🔭 I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
 🌱 I’m always learning, currently doing the devops path
 
-📫How to reach me: Linkedin Badge
+📫How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/leon-cangini)
+&nbsp;
